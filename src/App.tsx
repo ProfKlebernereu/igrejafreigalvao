@@ -271,7 +271,7 @@ function App() {
                   <span className={`font-bold ${
                     highContrast ? 'text-yellow-400' : 'text-blue-800'
                   }`}>
-                    19:30
+                  
                   </span>
                 </div>
                 <div className={`flex justify-between items-center py-3 border-b ${
@@ -457,7 +457,7 @@ function App() {
                     highContrast ? 'text-yellow-400' : 'text-gray-800'
                   }`}
                 >
-                  Festa de São Vicente
+                  Festa de São Frei Galvão
                 </h3>
                 <p className={`${
                   highContrast ? 'text-yellow-300' : 'text-gray-600'
@@ -1140,7 +1140,7 @@ function App() {
             <div className="flex items-center justify-center space-x-3 mb-4">
               <Heart className="w-8 h-8" aria-hidden="true" />
               <h3 className="text-2xl font-bold">
-                Igreja São Vicente de Paulo
+                Igreja Santo Antônio de Santana Galvão
               </h3>
             </div>
             <p className={`mb-6 ${
@@ -1177,7 +1177,7 @@ function App() {
             <p className={`text-sm ${
               highContrast ? 'text-yellow-300' : 'text-blue-300'
             }`}>
-              © 2024 Igreja São Vicente de Paulo - Taubaté. Todos os direitos reservados.
+              © 2025 Igreja Santo Antônio de Santana Galvão - Taubaté. Todos os direitos reservados.
             </p>
           </div>
         </div>
